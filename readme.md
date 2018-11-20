@@ -10,10 +10,10 @@ Gostou do curso? Quer mais? ajude com uma doação, até um café é válido =)
 
 Alterações feitas no arquivo, pode ser retirada utilizando o comando - git checkout.
 
-*Revisando como desfazer alterações nos arquivos, utilizando o comando [git checkout]*
+***Revisando como desfazer alterações nos arquivos, utilizando o comando [git checkout]***
 
 Arquivos alterados que foram "Add" podem ser retornadas da área de unstage com o comando reset HEAD.
 
-Git reset --soft  --> Reseta o commit realizado, retornando os arquivos para a área de unstage
-          --mixed --> Reseta o commit realizado, retornando os arquivos para a área de modified
-	  --hard  --> Reseta o commit realizado, apagando todas as alterações feitas nos arquivos e limpa o commit do log
+Git reset --soft  --> Reseta o commit realizado, retornando os arquivos para a área de unstage.
+          --mixed --> Reseta o commit realizado, retornando os arquivos para a área de modified.
+	  --hard  --> Reseta o commit realizado, apagando todas as alterações feitas nos arquivos e limpa o commit do log.
