@@ -20,4 +20,5 @@ Arquivos alterados que foram "Add" podem ser retornadas da área de unstage com 
 
 --mixed --> Reseta o commit realizado, retornando os arquivos para a área de modified.
 
---hard  --> Reseta o commit realizado, apagando todas as alterações feitas nos arquivos e limpa o commit do log.
+--hard  --> Reseta o commit realizado, apagando todas as alterações feitas nos arquivos 
+            e limpa a informação do commit no log.
