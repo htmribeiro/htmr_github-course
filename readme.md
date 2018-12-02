@@ -22,3 +22,8 @@ Arquivos alterados que foram "Add" podem ser retornadas da área de unstage com 
 
 --hard  --> Reseta o commit realizado, apagando todas as alterações feitas nos arquivos 
             e limpa a informação do commit no log.
+
+***Entendendo o funcionamento dos BRANCHES***
+
+**-> Criando um novo branch**
+[comando:] git checkout **-b** <nomeDoBranch>
