@@ -1,6 +1,6 @@
 # GitHub
 
-Arquivo da aula de Git e Github para iniciante [willianjusten.com.br](http://willianjusten.com.br).
+Arquivo da aula de Git e Github para iniciante | [willianjusten.com.br](http://willianjusten.com.br).
 
 *Alterações no arquivo, pode ser retirada utilizando o comando - git checkout.*
 
