@@ -1,11 +1,6 @@
 # GitHub
 
-Arquivo da aula de Git e Github para iniciante.
-
-Este é um repositório teste para ver como o git funciona.
-
-Saiba mais em [willianjusten.com.br](http://willianjusten.com.br)
-Gostou do curso? Quer mais? ajude com uma doação, até um café é válido =)
+Arquivo da aula de Git e Github para iniciante [willianjusten.com.br](http://willianjusten.com.br).
 
 *Alterações no arquivo, pode ser retirada utilizando o comando - git checkout.*
 
